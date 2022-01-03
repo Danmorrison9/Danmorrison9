@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Danmorrison9
+- 👀 I’m interested in Python Django, Flask, Java, Javascript, ReactJS, Angular, SQL
+- 🌱 I’m currently learning Django, Flask
+- 📫 How to reach me ... Email: Danmorrison400@gmail.com
